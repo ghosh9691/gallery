@@ -1,270 +1,1592 @@
 {
-  "Mockups": [
+  "Landscapes": [
     {
-      "height": 2020,
-      "compressed_path": "./photos/Mockups/Desktop.min.png",
-      "width": 1440,
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-1.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-1.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Mockups/Desktop.placeholder.png",
-      "path": "./photos/Mockups/Desktop.png"
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-1.placeholder.jpg"
     },
     {
-      "height": 1024,
-      "compressed_path": "./photos/Mockups/curriculum.min.png",
-      "width": 1440,
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-10.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-10.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Mockups/curriculum.placeholder.png",
-      "path": "./photos/Mockups/curriculum.png"
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-10.placeholder.jpg"
     },
     {
-      "height": 1000,
-      "compressed_path": "./photos/Mockups/Frame.min.png",
-      "width": 1000,
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-11.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-11.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Mockups/Frame.placeholder.png",
-      "path": "./photos/Mockups/Frame.png"
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-11.placeholder.jpg"
     },
     {
-      "height": 1024,
-      "compressed_path": "./photos/Mockups/glossary.min.png",
-      "width": 1440,
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-12.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-12.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Mockups/glossary.placeholder.png",
-      "path": "./photos/Mockups/glossary.png"
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-12.placeholder.jpg"
     },
     {
-      "height": 1024,
-      "compressed_path": "./photos/Mockups/photoframe.min.png",
-      "width": 1440,
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-13.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-13.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Mockups/photoframe.placeholder.png",
-      "path": "./photos/Mockups/photoframe.png"
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-13.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-14.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-14.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-14.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-15.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-15.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-15.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-16.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-16.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-16.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-17.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-17.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-17.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-18.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-18.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-18.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-19.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-19.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-19.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-2.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-2.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-2.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-20.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-20.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-20.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-21.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-21.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-21.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-22.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-22.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-22.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-23.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-23.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-23.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-24.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-24.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-24.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-25.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-25.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-25.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-26.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-26.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-26.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-27.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-27.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-27.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-28.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-28.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-28.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-29.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-29.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-29.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-3.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-3.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-3.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-30.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-30.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-30.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-31.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-31.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-31.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-32.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-32.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-32.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-33.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-33.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-33.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-34.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-34.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-34.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-35.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-35.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-35.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-36.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-36.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-36.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-37.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-37.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-37.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-38.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-38.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-38.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-39.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-39.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-39.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-4.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-4.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-4.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-40.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-40.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-40.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-41.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-41.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-41.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-42.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-42.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-42.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-43.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-43.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-43.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-44.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-44.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-44.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-45.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-45.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-45.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-46.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-46.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-46.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-47.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-47.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-47.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-48.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-48.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-48.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-49.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-49.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-49.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-5.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-5.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-5.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-50.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-50.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-50.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-51.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-51.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-51.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-52.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-52.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-52.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-53.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-53.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-53.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-54.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-54.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-54.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-55.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-55.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-55.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-56.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-56.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-56.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-57.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-57.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-57.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-58.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-58.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-58.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-59.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-59.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-59.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-6.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-6.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-6.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-60.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-60.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-60.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-61.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-61.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-61.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-62.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-62.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-62.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-63.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-63.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-63.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-64.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-64.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-64.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-65.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-65.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-65.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-66.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-66.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-66.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-67.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-67.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-67.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-68.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-68.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-68.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-69.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-69.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-69.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-7.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-7.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-7.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-70.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-70.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-70.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-71.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-71.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-71.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-8.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-8.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-8.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Landscapes\\Landscapes-9.jpg",
+      "compressed_path": ".\\photos\\Landscapes\\Landscapes-9.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Landscapes\\Landscapes-9.placeholder.jpg"
     }
   ],
-  "Travel Photography": [
+  "Macro": [
     {
-      "height": 4472,
-      "compressed_path": "./photos/Travel Photography/DSCF0219.min.jpg",
-      "width": 3578,
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Macro\\Landscapes-1.jpg",
+      "compressed_path": ".\\photos\\Macro\\Landscapes-1.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF0219.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF0219.jpg"
+      "placeholder_path": ".\\photos\\Macro\\Landscapes-1.placeholder.jpg"
     },
     {
-      "height": 3265,
-      "compressed_path": "./photos/Travel Photography/DSCF1502.min.jpg",
-      "width": 4898,
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Macro\\Landscapes-2.jpg",
+      "compressed_path": ".\\photos\\Macro\\Landscapes-2.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF1502.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF1502.jpg"
+      "placeholder_path": ".\\photos\\Macro\\Landscapes-2.placeholder.jpg"
     },
     {
-      "height": 2940,
-      "compressed_path": "./photos/Travel Photography/IMG_9966.min.jpg",
-      "width": 2205,
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Macro\\Landscapes-3.jpg",
+      "compressed_path": ".\\photos\\Macro\\Landscapes-3.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_9966.placeholder.jpg",
-      "path": "./photos/Travel Photography/IMG_9966.jpg"
+      "placeholder_path": ".\\photos\\Macro\\Landscapes-3.placeholder.jpg"
     },
     {
-      "height": 4422,
-      "compressed_path": "./photos/Travel Photography/DSCF7399.min.jpg",
-      "width": 3538,
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Macro\\Landscapes-4.jpg",
+      "compressed_path": ".\\photos\\Macro\\Landscapes-4.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF7399.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF7399.jpg"
+      "placeholder_path": ".\\photos\\Macro\\Landscapes-4.placeholder.jpg"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8091.min.jpg",
-      "width": 3265,
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Macro\\Landscapes-5.jpg",
+      "compressed_path": ".\\photos\\Macro\\Landscapes-5.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8091.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8091.jpg"
+      "placeholder_path": ".\\photos\\Macro\\Landscapes-5.placeholder.jpg"
     },
     {
-      "height": 4080,
-      "compressed_path": "./photos/Travel Photography/DSCF4244.min.jpg",
-      "width": 3264,
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Macro\\Landscapes-6.jpg",
+      "compressed_path": ".\\photos\\Macro\\Landscapes-6.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF4244.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF4244.jpg"
+      "placeholder_path": ".\\photos\\Macro\\Landscapes-6.placeholder.jpg"
+    }
+  ],
+  "Malashri": [
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-1.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-1.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-1.placeholder.jpg"
     },
     {
-      "height": 3151,
-      "compressed_path": "./photos/Travel Photography/DSCF1894.min.jpg",
-      "width": 2363,
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-10.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-10.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF1894.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF1894.jpg"
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-10.placeholder.jpg"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8053.min.jpg",
-      "width": 3265,
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-100.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-100.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8053.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8053.jpg"
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-100.placeholder.jpg"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8196.min.jpg",
-      "width": 3265,
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-101.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-101.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8196.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8196.jpg"
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-101.placeholder.jpg"
     },
     {
-      "height": 3808,
-      "compressed_path": "./photos/Travel Photography/DSCF2242.min.jpg",
-      "width": 2856,
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-102.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-102.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF2242.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF2242.jpg"
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-102.placeholder.jpg"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF0989(1).min.jpg",
-      "width": 3265,
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-103.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-103.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF0989(1).placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF0989(1).jpg"
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-103.placeholder.jpg"
     },
     {
-      "height": 4062,
-      "compressed_path": "./photos/Travel Photography/DSCF8958.min.jpg",
-      "width": 3250,
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-104.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-104.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8958.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8958.jpg"
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-104.placeholder.jpg"
     },
     {
-      "height": 4415,
-      "compressed_path": "./photos/Travel Photography/IMG_0072.min.jpg",
-      "width": 3311,
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-105.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-105.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_0072.placeholder.jpg",
-      "path": "./photos/Travel Photography/IMG_0072.jpg"
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-105.placeholder.jpg"
     },
     {
-      "height": 4899,
-      "compressed_path": "./photos/Travel Photography/DSCF0860.min.jpg",
-      "width": 3266,
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-106.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-106.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF0860.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF0860.jpg"
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-106.placeholder.jpg"
     },
     {
-      "height": 3388,
-      "compressed_path": "./photos/Travel Photography/IMG_9863.min.jpg",
-      "width": 2541,
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-107.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-107.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_9863.placeholder.jpg",
-      "path": "./photos/Travel Photography/IMG_9863.jpg"
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-107.placeholder.jpg"
     },
     {
-      "height": 4472,
-      "compressed_path": "./photos/Travel Photography/DSCF0138.min.jpg",
-      "width": 3578,
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-108.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-108.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF0138.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF0138.jpg"
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-108.placeholder.jpg"
     },
     {
-      "height": 4149,
-      "compressed_path": "./photos/Travel Photography/20160406-20160505DSCF2086.min.jpg",
-      "width": 3112,
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-109.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-109.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/20160406-20160505DSCF2086.placeholder.jpg",
-      "path": "./photos/Travel Photography/20160406-20160505DSCF2086.jpg"
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-109.placeholder.jpg"
     },
     {
-      "height": 4352,
-      "compressed_path": "./photos/Travel Photography/DSCF1802.min.jpg",
-      "width": 3264,
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-11.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-11.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF1802.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF1802.jpg"
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-11.placeholder.jpg"
     },
     {
-      "height": 4352,
-      "compressed_path": "./photos/Travel Photography/DSCF3621.min.jpg",
-      "width": 3264,
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-110.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-110.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF3621.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF3621.jpg"
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-110.placeholder.jpg"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8993.min.jpg",
-      "width": 3265,
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-111.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-111.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8993.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8993.jpg"
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-111.placeholder.jpg"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8103.min.jpg",
-      "width": 3265,
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-112.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-112.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8103.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8103.jpg"
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-112.placeholder.jpg"
     },
     {
-      "height": 3943,
-      "compressed_path": "./photos/Travel Photography/DSCF5784.min.jpg",
-      "width": 3154,
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-113.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-113.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF5784.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF5784.jpg"
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-113.placeholder.jpg"
     },
     {
-      "height": 3264,
-      "compressed_path": "./photos/Travel Photography/DSCF4538.min.jpg",
-      "width": 2611,
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-114.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-114.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF4538.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF4538.jpg"
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-114.placeholder.jpg"
     },
     {
-      "height": 3000,
-      "compressed_path": "./photos/Travel Photography/DSCF1252.min.jpg",
-      "width": 5332,
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-115.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-115.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF1252.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF1252.jpg"
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-115.placeholder.jpg"
     },
     {
-      "height": 3962,
-      "compressed_path": "./photos/Travel Photography/DSCF5636.min.jpg",
-      "width": 3170,
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-116.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-116.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF5636.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF5636.jpg"
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-116.placeholder.jpg"
     },
     {
-      "height": 2848,
-      "compressed_path": "./photos/Travel Photography/IMG_7575.min.jpg",
-      "width": 3797,
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-117.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-117.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_7575.placeholder.jpg",
-      "path": "./photos/Travel Photography/IMG_7575.jpg"
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-117.placeholder.jpg"
     },
     {
-      "height": 4472,
-      "compressed_path": "./photos/Travel Photography/DSCF8846.min.jpg",
-      "width": 3578,
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-118.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-118.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8846.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8846.jpg"
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-118.placeholder.jpg"
     },
     {
-      "height": 3399,
-      "compressed_path": "./photos/Travel Photography/DSCF7355.min.jpg",
-      "width": 2719,
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-119.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-119.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF7355.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF7355.jpg"
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-119.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-12.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-12.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-12.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-120.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-120.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-120.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-121.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-121.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-121.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-13.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-13.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-13.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-14.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-14.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-14.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-15.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-15.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-15.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-16.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-16.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-16.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-17.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-17.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-17.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-18.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-18.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-18.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-19.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-19.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-19.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-2.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-2.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-2.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-20.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-20.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-20.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-21.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-21.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-21.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-22.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-22.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-22.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-23.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-23.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-23.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-24.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-24.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-24.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-25.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-25.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-25.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-26.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-26.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-26.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-27.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-27.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-27.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-28.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-28.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-28.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-29.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-29.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-29.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-3.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-3.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-3.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-30.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-30.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-30.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-31.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-31.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-31.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-32.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-32.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-32.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-33.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-33.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-33.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-34.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-34.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-34.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-35.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-35.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-35.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-36.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-36.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-36.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-37.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-37.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-37.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-38.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-38.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-38.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-39.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-39.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-39.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-4.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-4.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-4.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-40.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-40.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-40.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-41.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-41.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-41.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-42.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-42.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-42.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-43.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-43.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-43.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-44.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-44.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-44.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-45.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-45.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-45.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-46.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-46.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-46.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-47.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-47.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-47.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-48.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-48.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-48.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-49.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-49.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-49.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-5.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-5.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-5.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-50.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-50.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-50.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-51.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-51.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-51.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-52.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-52.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-52.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-53.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-53.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-53.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-54.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-54.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-54.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-55.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-55.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-55.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-56.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-56.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-56.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-57.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-57.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-57.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-58.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-58.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-58.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-59.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-59.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-59.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-6.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-6.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-6.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-60.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-60.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-60.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-61.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-61.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-61.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-62.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-62.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-62.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-63.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-63.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-63.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-64.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-64.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-64.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-65.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-65.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-65.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-66.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-66.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-66.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-67.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-67.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-67.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-68.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-68.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-68.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-69.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-69.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-69.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-7.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-7.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-7.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-70.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-70.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-70.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-71.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-71.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-71.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-72.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-72.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-72.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-73.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-73.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-73.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-74.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-74.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-74.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-75.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-75.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-75.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-76.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-76.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-76.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-77.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-77.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-77.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-78.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-78.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-78.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-79.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-79.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-79.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-8.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-8.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-8.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-80.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-80.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-80.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-81.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-81.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-81.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-82.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-82.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-82.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-83.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-83.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-83.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-84.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-84.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-84.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-85.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-85.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-85.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-86.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-86.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-86.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-87.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-87.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-87.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-88.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-88.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-88.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-89.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-89.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-89.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-9.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-9.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-9.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-90.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-90.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-90.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-91.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-91.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-91.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-92.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-92.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-92.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-93.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-93.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-93.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-94.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-94.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-94.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-95.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-95.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-95.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-96.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-96.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-96.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-97.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-97.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-97.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-98.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-98.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-98.placeholder.jpg"
+    },
+    {
+      "width": 0,
+      "height": 0,
+      "path": ".\\photos\\Malashri\\MalashriWedding-99.jpg",
+      "compressed_path": ".\\photos\\Malashri\\MalashriWedding-99.min.jpg",
+      "compressed": true,
+      "placeholder_path": ".\\photos\\Malashri\\MalashriWedding-99.placeholder.jpg"
     }
   ]
 }
